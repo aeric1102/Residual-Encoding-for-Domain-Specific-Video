@@ -26,4 +26,5 @@ When the path of raw and low-quality(compressed) videos are "./data/NBA_raw.mp4"
 
 ## Reference: 
 [1]Tsai, Y.H., Liu, M.Y., Sun, D., Yang, M.H., Kautz, J.: Learning binary residual representations for domain-specific video streaming. In: AAAI
+
 [2]subpixel: A subpixel convolutional neural network implementation with Tensorflow, https://github.com/tetrachrome/subpixel
